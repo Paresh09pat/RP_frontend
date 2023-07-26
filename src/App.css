@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap');
+
+*{
+    /* font-family: FuturaMediumBT; */
+    /* font-family: MoongladeDemoBold-jOzM; */
+    /* font-family: 'Jost', sans-serif; */
+    font-family: 'Jost', sans-serif;
+}
+p,li{
+  font-weight: 200 !important;
+}
+
+h1{
+  font-weight: 400 !important;
+  font-style: italic;
+  
+}
+
+h2{
+  font-weight: 400 !important;
+}
+
